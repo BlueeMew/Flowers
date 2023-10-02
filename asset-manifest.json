@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Flowers/static/css/main.11043c76.css",
+    "main.js": "/Flowers/static/js/main.5bf4179a.js",
+    "static/media/Screenshot 2023-09-30 at 4.54.19 PM.png": "/Flowers/static/media/Screenshot 2023-09-30 at 4.54.19 PM.710399b49f43d79e2c22.png",
+    "static/media/carousel3.png": "/Flowers/static/media/carousel3.39e713aceb0ac9f58323.png",
+    "static/media/carousel_image2.png": "/Flowers/static/media/carousel_image2.a3cbd4048a4ca1c21e3d.png",
+    "static/media/Screenshot 2023-09-23 at 4.46.30 PM.png": "/Flowers/static/media/Screenshot 2023-09-23 at 4.46.30 PM.7d7da1754419c769206f.png",
+    "static/media/f2.jpg": "/Flowers/static/media/f2.d1af6206173dcdb2ed3a.jpg",
+    "static/media/f5.jpg": "/Flowers/static/media/f5.fbb2ce3e8179340ce4db.jpg",
+    "static/media/f4.jpg": "/Flowers/static/media/f4.29e37293c0c39be41fb9.jpg",
+    "static/media/f3.jpg": "/Flowers/static/media/f3.c89bdf74834593b7a8c0.jpg",
+    "static/media/f7.jpg": "/Flowers/static/media/f7.7444062932ffbd9ca8f7.jpg",
+    "static/media/f1.jpg": "/Flowers/static/media/f1.b5d09cf92af9c63db65c.jpg",
+    "static/media/Screenshot 2023-09-23 at 4.48.48 PM.png": "/Flowers/static/media/Screenshot 2023-09-23 at 4.48.48 PM.2d3bd6cba5ce7276f6bd.png",
+    "static/media/f6.jpg": "/Flowers/static/media/f6.5d338c65bb52bfa7bd20.jpg",
+    "index.html": "/Flowers/index.html",
+    "main.11043c76.css.map": "/Flowers/static/css/main.11043c76.css.map",
+    "main.5bf4179a.js.map": "/Flowers/static/js/main.5bf4179a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11043c76.css",
+    "static/js/main.5bf4179a.js"
+  ]
+}
